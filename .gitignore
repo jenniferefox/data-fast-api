@@ -29,3 +29,8 @@ mlruns
 
 # Challengify - test challengification files
 *_challengify*
+.envrc
+.env
+.env.yaml
+.Dockerfile
+.notebooks
