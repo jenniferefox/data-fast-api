@@ -1,3 +1,5 @@
+https://taxifare-website-karc3bs8gyb6sv5qxvsrpf.streamlit.app/
+
 ## Backend to support Taxifare App
 
 Uses **FastAPI** to create a prediction API for machine learning model to predict taxi fares in New York.
