@@ -1,3 +1,7 @@
+Predict how much a taxi will cost for a journey in New York.
+Add date, time, longitude/latitude and number of passengers to get a predicted fare!
+(Start with longitude 40.7, latitude -70 for your New York journey)
+
 https://taxifare-website-karc3bs8gyb6sv5qxvsrpf.streamlit.app/
 
 ## Backend to support Taxifare App
