@@ -116,7 +116,6 @@ def load_model(stage="Production") -> keras.Model:
         return latest_model
 
     elif MODEL_TARGET == "gcs":
-        # 🎁 We give you this piece of code as a gift. Please read it carefully! Add a breakpoint if needed!
         print(Fore.BLUE + f"\nLoad latest model from GCS..." + Style.RESET_ALL)
 
         client = storage.Client()
